@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Kashiff-7/kashiff-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about full-stack development, AI, automation, and software architecture.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently building AI-powered applications and scalable web platforms.
+- 🌱 I'm exploring software architecture and system design.
+- 👯 I'm open to collaborating on interesting projects.
+- 💬 Ask me about Python, JavaScript, React, Next.js, and AI automation.
+- ⚡ Fun fact: I build things that think, scale, and occasionally surprise me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript (ES6+)
+
+**Frontend:** React.js, Next.js
+
+**Backend:** Node.js, Express.js, FastAPI, Flask
+
+**Databases:** MySQL, PostgreSQL, MongoDB, Supabase
+
+**Cloud:** AWS, Azure
+
+**Automation:** n8n, Make.com
